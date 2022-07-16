@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Enhanced Emeralds Mod
 
-## Setup
+## Description
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+    This mod aims to add much more functionality than trading to the emeralds. 
+    The idea is that you can Enrich/Enhance/Fill emeralds with experience via some sort of machine that will use Solid Experience Blocks/Items from the get go
+    Eventually you will upgrade the machine or maybe craft other machines that can use liquid experience or essence (like Bottles of Experience) to be able to fill the emeralds.
+    And tha last upgrade/machine will be powered with _magic_ and use Experience orbs nearby the machine to fill the emeralds
 
-## License
-
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+## State Of The Mod
+    It has nothing yet.

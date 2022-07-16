@@ -1,7 +1,7 @@
 {
   "required": true,
   "minVersion": "0.8",
-  "package": "net.dinnerchief.enhancedemeralds.mixin",
+  "package": "net.dinnerchief.enhanced_emeralds.mixin",
   "compatibilityLevel": "JAVA_17",
   "mixins": [
   ],

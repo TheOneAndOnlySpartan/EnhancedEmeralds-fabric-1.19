@@ -1,4 +1,4 @@
-package net.dinnerchief.enhancedemeralds;
+package net.dinnerchief.enhanced_emeralds;
 
 import net.fabricmc.api.ClientModInitializer;
 

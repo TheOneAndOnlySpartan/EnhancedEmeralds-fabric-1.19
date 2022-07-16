@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "id": "enhancedemeralds",
+  "id": "enhanced_emeralds",
   "version": "${version}",
 
   "name": "Enhanced Emeralds",
@@ -17,14 +17,14 @@
   "environment": "*",
   "entrypoints": {
     "main": [
-      "net.dinnerchief.enhancedemeralds.EnhancedEmeralds"
+      "net.dinnerchief.enhanced_emeralds.EnhancedEmeralds"
     ],
     "client": [
-      "net.dinnerchief.enhancedemeralds.EnhancedEmeraldsClient"
+      "net.dinnerchief.enhanced_emeralds.EnhancedEmeraldsClient"
     ]
   },
   "mixins": [
-    "enhancedemeralds.mixins.json"
+    "enhanced_emeralds.mixins.json"
   ],
 
   "depends": {

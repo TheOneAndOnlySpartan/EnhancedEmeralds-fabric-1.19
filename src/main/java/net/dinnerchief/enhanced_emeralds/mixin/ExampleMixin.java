@@ -1,6 +1,6 @@
-package net.dinnerchief.enhancedemeralds.mixin;
+package net.dinnerchief.enhanced_emeralds.mixin;
 
-import net.dinnerchief.enhancedemeralds.EnhancedEmeralds;
+import net.dinnerchief.enhanced_emeralds.EnhancedEmeralds;
 import net.minecraft.client.gui.screen.TitleScreen;
 import org.spongepowered.asm.mixin.Mixin;
 import org.spongepowered.asm.mixin.injection.At;

@@ -9,3 +9,6 @@
 
 ## State Of The Mod
     It has nothing yet.
+
+## Contacts
+    Contact me in Discord: DinnerChief#6379

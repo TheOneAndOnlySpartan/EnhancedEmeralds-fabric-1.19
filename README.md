@@ -7,7 +7,9 @@ Eventually you will upgrade the machine or maybe craft other machines that can u
 And tha last upgrade/machine will be powered with _magic_ and use Experience orbs nearby the machine to fill the emeralds
 
 ## State Of The Mod
-It has nothing yet.
+    Work in Progress
+
+You have transparent solid experience orb :)
 
 ## Contacts
 Contact me in Discord: DinnerChief#6379

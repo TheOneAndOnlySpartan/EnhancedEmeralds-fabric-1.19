@@ -9,12 +9,10 @@
     "DinnerChief"
   ],
   "contact": {
-    "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/FabricMC/fabric-example-mod"
+    "homepage": "https://github.com/TheOneAndOnlySpartan/EnhancedEmeralds-fabric-1.19"
   },
 
   "license": "MIT License",
-  "icon": "assets/modid/icon.png",
 
   "environment": "*",
   "entrypoints": {

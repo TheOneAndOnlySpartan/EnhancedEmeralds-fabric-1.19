@@ -1,3 +1,10 @@
 {
-  "item.enhanced_emeralds.solid_experience_orb": "Solid Experience Orb"
+  "item.enhanced_emeralds.small_experience_chunk": "Small Experience Chunk",
+  "item.enhanced_emeralds.medium_experience_chunk": "Medium Experience Chunk",
+  "item.enhanced_emeralds.big_experience_chunk": "Big Experience Chunk",
+  "item.enhanced_emeralds.charged_emerald": "Charged Emerald (WIP)",
+
+  "block.enhanced_emeralds.charged_emerald_block": "Charged Emerald Block",
+
+  "itemGroup.enhanced_emeralds.enhanced_emeralds": "Enhanced Emeralds"
 }

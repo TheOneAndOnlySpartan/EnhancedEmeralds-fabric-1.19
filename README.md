@@ -11,7 +11,7 @@ And tha last upgrade/machine will be powered with _magic_ and use Experience orb
 
 You still have transparent exp orbs, but 3 tiers!
 
-And also Charged Emeralds that look like normal Emerald and Charged Emerald Block, the texture of which I made myself (_programmer art_)
+And also Charged Emeralds that look like normal Emerald and Charged Emerald Block, the texture of which I made myself (✨ _programmer art_ ✨)
 
 ## Contacts
 Contact me in Discord: DinnerChief#6379
